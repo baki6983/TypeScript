@@ -6,5 +6,5 @@ class MyClass{
 }
 window.onload=()=>{
   var myClass = new MyClass();
-  myClass.render("content", "Hello World , welcome to Javascript");
+  myClass.render("content", "Hello World , welcome to Javascript1");
 };
